@@ -8,11 +8,12 @@ This project is the client-side frontend for the SyncUp application. <br/>
 It is a single page application that allows users to sync data between web apps. <br/>
 This is not a finished product, but a work in progress. <br/>
 
-## Features
+## Stack Used
 
 - Vue
 - VueX
 - Vuetify
+- Axios
 - Firebase Authentication
 
 ## Getting Started
